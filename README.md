@@ -14,4 +14,4 @@ Authenticated encryption based in encrypt-then-mac, encrypt-and-mac and mac-then
 
 > After encryption, the authenticity will be checked. If it's true, your data will be decrypted, otherwise it won't.
 
-> A true or false message will be displayed after.
+> A true or false authentication message will be displayed after.
